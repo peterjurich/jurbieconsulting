@@ -1,0 +1,72 @@
+#wrapper{
+    background-color: #264542;
+    height: 1000px;
+    width: 960px;
+}
+
+#header{
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+#header h1, #header h4{
+    display: inline;
+    margin-top: 11px;
+    color: white;
+}
+
+#header h1{
+    margin-left: 15px;
+}
+
+#header h4{
+    margin-left: 180px;
+}
+
+#main_content{
+    background-color: #72CBC3;
+    height: 860px;
+}
+
+#bannerImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+#bio{
+    display: inline-block;
+    width: 475px;
+    background-color: rgb(189, 187, 187);
+    margin: 20px 25px 20px 0px;
+
+}
+
+#bio h2{
+    margin: 0px;
+    color: white;
+    background-color: gray;
+}
+
+#bio a{
+    color: black;
+}
+
+.project{
+    width: 280;
+    display: inline-block;
+    margin-left: 25px;
+    background-color: white;
+}
+
+.project img{
+    width: 280px;
+    margin: 0px;
+}
+
+.tech_images{
+    width: 40px;
+    display: inline-block;
+    margin: 5px;
+}
