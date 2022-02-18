@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![Jurbie Consulting Logo Banner](https://github.com/peterjurich/jurbieconsulting/blob/main/Jurbie%20Consulting%20Banner.png)
 
 # Jurbie Consulting
 
