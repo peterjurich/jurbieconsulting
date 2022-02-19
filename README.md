@@ -4,4 +4,4 @@
 
 Peter Jurich | Emily Mabie
 :----------:|:-------------------------:
-![Peter's headshot](#)  |  ![Emily's Headshot](https://github.com/peterjurich/jurbieconsulting/blob/main/Emily%20headshot.jpeg)
+![Peter's headshot](https://github.com/peterjurich/jurbieconsulting/blob/main/Peter%20headshot.jpeg)  |  ![Emily's Headshot](https://github.com/peterjurich/jurbieconsulting/blob/main/Emily%20headshot.jpeg)
