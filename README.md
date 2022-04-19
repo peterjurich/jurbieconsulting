@@ -5,4 +5,4 @@
 Peter Jurich | Emily Mabie
 :----------:|:-------------------------:
 ![Peter's headshot](https://github.com/peterjurich/jurbieconsulting/blob/main/Peter%20headshot.jpeg)  |  ![Emily's Headshot](https://github.com/peterjurich/jurbieconsulting/blob/main/Emily%20headshot.jpeg)
-Contact me about science communication, technical writing, and audience targetting needs! | Contact me about instructional design, project management, and curriculum curation needs!
+Contact me with your science communication, technical writing, and audience targetting needs! | Contact me with your instructional design, project management, and curriculum curation needs!
